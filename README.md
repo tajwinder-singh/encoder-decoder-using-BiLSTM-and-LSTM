@@ -49,7 +49,7 @@ I already knew how to implement the **RNNs (LSTM, GRU, BiLSTM)**.
 
 ---
 
-🔗 **LinkedIn:** https://linkedin.com/tajwinder-singh-
+🔗 **LinkedIn:** [https://linkedin.com/tajwinder-singh-](https://www.linkedin.com/in/tajwinder-singh-)
 ---
 
 #DeepLearning #NLP #Seq2Seq #LSTM #BiLSTM #EncoderDecoder #MachineLearning #LanguageTranslation #AI #DataScience #NeuralNetworks
