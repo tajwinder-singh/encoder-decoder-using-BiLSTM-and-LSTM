@@ -1,5 +1,10 @@
 # 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐄𝐧𝐜𝐨𝐝𝐞𝐫–𝐃𝐞𝐜𝐨𝐝𝐞𝐫 𝐌𝐨𝐝𝐞𝐥𝐬 𝐰𝐢𝐭𝐡 𝐋𝐒𝐓𝐌 & 𝐁𝐢𝐋𝐒𝐓𝐌 𝐟𝐨𝐫 𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞-𝐭𝐨-𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 
+<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/b7845ac9-5a4f-4391-ba92-a3884445ac97" />
+
+---
+<br>
+
 From past four days, I have been implementing an Encoder–Decoder architecture from scratch — using **BiLSTM and LSTM** — to understand how modern translation models process sequences.  
 I already knew how to implement the **RNNs (LSTM, GRU, BiLSTM)**.
 
@@ -53,4 +58,3 @@ I already knew how to implement the **RNNs (LSTM, GRU, BiLSTM)**.
 ---
 
 #DeepLearning #NLP #Seq2Seq #LSTM #BiLSTM #EncoderDecoder #MachineLearning #LanguageTranslation #AI #DataScience #NeuralNetworks
-<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/b7845ac9-5a4f-4391-ba92-a3884445ac97" />
